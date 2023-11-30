@@ -1,0 +1,7 @@
+D:\Programs\Personal_Projects\firstapi\obj\Debug\net5.0\firstapi.csproj.AssemblyReference.cache
+D:\Programs\Personal_Projects\firstapi\obj\Debug\net5.0\firstapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Personal_Projects\firstapi\obj\Debug\net5.0\firstapi.AssemblyInfoInputs.cache
+D:\Programs\Personal_Projects\firstapi\obj\Debug\net5.0\firstapi.AssemblyInfo.cs
+D:\Programs\Personal_Projects\firstapi\obj\Debug\net5.0\firstapi.csproj.CoreCompileInputs.cache
+D:\Programs\Personal_Projects\firstapi\obj\Debug\net5.0\firstapi.MvcApplicationPartsAssemblyInfo.cs
+D:\Programs\Personal_Projects\firstapi\obj\Debug\net5.0\firstapi.MvcApplicationPartsAssemblyInfo.cache
